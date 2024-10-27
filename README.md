@@ -17,9 +17,9 @@ I'm a small **Developer** that's still in the learning process.
 
 # # 💻 My Programming Philosophy
 
-  **Efficiency First**: I focus on crafting solutions that maximize performance and minimize complexity.
-  **Readable Code**: Code should be clear and intuitive, making it easy for others to read and maintain.
-  **Lifelong Learning**: In the ever-changing tech landscape, staying updated and continuously improving is essential.
+-  **Efficiency First**: I focus on crafting solutions that maximize performance and minimize complexity.
+-  **Readable Code**: Code should be clear and intuitive, making it easy for others to read and maintain.
+-  **Lifelong Learning**: In the ever-changing tech landscape, staying updated and continuously improving is essential.
 
     
 
