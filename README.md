@@ -15,7 +15,7 @@ I'm a small **Developer** that's still in the learning process.
 - Learning the C++ Programming Language.
 - Giving myself some time to learn some x86 assembly rarely as of right now learning C++.
 
-# # 💻 My Programming Philosophy
+## 💻 My Programming Philosophy
 
 -  **Efficiency First**: I focus on crafting solutions that maximize performance and minimize complexity.
 -  **Readable Code**: Code should be clear and intuitive, making it easy for others to read and maintain.
